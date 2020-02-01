@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <string name="app_name">همیار آنلاین</string>
+
+
+
+
+
+<string name="checkin">Checkin</string>
+  <string name="menu_settings">تنظیمات</string>
+  <string-array name="subjs">
+    <item> </item>
+  </string-array>
+</resources>

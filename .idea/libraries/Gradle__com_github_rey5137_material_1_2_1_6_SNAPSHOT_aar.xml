@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rey5137:material:1.2.1.6-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed6465a215fe492ed159cc4db956065e/material-1.2.1.6-SNAPSHOT/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed6465a215fe492ed159cc4db956065e/material-1.2.1.6-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed6465a215fe492ed159cc4db956065e/material-1.2.1.6-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rey5137/material/1.2.1.6-SNAPSHOT/187e2213500e777c21a6ed6e92768c0899256ad6/material-1.2.1.6-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rey5137/material/1.2.1.6-SNAPSHOT/9b3dfb48deca079539ce3c4246022b6314aeb9f/material-1.2.1.6-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
